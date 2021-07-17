@@ -6,6 +6,8 @@ This board will do nothing on it's own besides physically hold 4 key switches.
 
 I just took the Eagle board file from https://github.com/adafruit/Adafruit-NeoKey-1x4-PCB, imported it into KiCad, removed everything from the board besides the mechanical holes and the key switches, and replaced the key switch footprints with an internal board cutout.
 
+You can find the mechanical plate at https://www.tindie.com/products/24227/.
+
 ## Original Text
 
 Most of this is irrelevant for these files, but the license stipulates I include it. The files in this repository are just for a *mechanical plate* and do not include any connectors, key switch sockets, key switches, key caps, microcontrollers, or even any copper on the board whatsoever.
